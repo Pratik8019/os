@@ -73,3 +73,16 @@ printf("\nAverage Waiting Time: %.2f\n", avg_wt);
 printf("Average Turnaround Time: %.2f\n", avg_tat);
 return 0;
 }
+/*
+2 1
+1 5
+4 1
+0 6
+2 3
+ct 
+3
+16
+5
+11
+7
+*/
